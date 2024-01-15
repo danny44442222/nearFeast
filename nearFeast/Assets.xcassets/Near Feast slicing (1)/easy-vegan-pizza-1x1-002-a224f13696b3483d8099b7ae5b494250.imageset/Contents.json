@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "easy-vegan-pizza-1x1-002-a224f13696b3483d8099b7ae5b494250.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "easy-vegan-pizza-1x1-002-a224f13696b3483d8099b7ae5b494250@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "easy-vegan-pizza-1x1-002-a224f13696b3483d8099b7ae5b494250@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

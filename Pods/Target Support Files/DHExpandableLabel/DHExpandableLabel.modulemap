@@ -1,0 +1,6 @@
+framework module DHExpandableLabel {
+  umbrella header "DHExpandableLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
